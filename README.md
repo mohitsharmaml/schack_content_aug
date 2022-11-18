@@ -14,3 +14,8 @@ For more details: https://stability.ai/blog/stable-diffusion-public-release
 ## Usage
 Copy the notebook Fast_stable_diffusion_AUTOMATIC1111.ipynb to your collab
 Give it the required permissions, and let it rip
+
+## Demo Outputs
+Look into this old man's eyes and tell him he's not real 
+![](../../Downloads/demo_images/farming/indianOldman.png)
+
